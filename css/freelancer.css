@@ -330,3 +330,26 @@ a {
 .social_media_btn{
   background-color: #2c3e4e;
 }
+
+.modal_button_container{
+  display: flex;
+  justify-content: space-around;
+}
+.project_container{
+  margin: 25px;
+  height: 230px;
+  width: 330px;
+}
+
+.portfolio_list{
+  text-align: right;
+  float: right;
+  font-size: 18px;
+}
+.portfolio-item-caption-content{
+  display: flex;
+  flex-direction: column;
+}
+.portfolio_btn_container{
+  flex-direction: row;
+}
